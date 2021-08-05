@@ -1,0 +1,6 @@
+https://azure-paas-qa.portal.azure-api.net/docs/services/admin-api/operations/get-containers-list-programid-programid-group
+
+Authentication
+grant_type=password&scope=rtweb.api%20offline_access&username=siteadmin&password=Pass_word_123
+
+
