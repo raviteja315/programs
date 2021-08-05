@@ -1,0 +1,7 @@
+ Reviewing of all the error logs and fixing it. Providing support to users during escalated supports
+
+
+	Remote access to another machines and application deployment using Ansible.
+
+
+	Scheduling of automatic, repetitive Jobs using commands with At and Crontab.
